@@ -1,3 +1,9 @@
+Changelog:
+- fixed flipped image on loading in Mesh.cpp
+- fixed import error in gl.h
+- added 4 view ports in main.cpp
+- added 4 algorithms in game.cpp
+
 Basic 3D graphics engine - based on the Opengl series of TheCherno 
 
 Initialization:
